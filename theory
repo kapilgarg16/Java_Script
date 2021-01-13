@@ -1,0 +1,63 @@
+->java and javaScript both are different language.
+ 
+->JS Engine needed some tool to change in machine code
+Engines:
+- V8   
+- Spider monkey
+
+change java script code in understanding language
+
+-> download command prompt
+-> node -v
+
+- nodejs is compiler of java script
+
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript
+for operator precedency
+
+//  java script  has === 
+
+
+----------------------------
+
+TODO :- context
+
+
+GLOBAL CONTEXT :-it has completely information about everything
+                there is a window object in global context which is basically tide with browser
+
+Execution context :- this context is related to evey single line of code
+
+**Execution CONTEXT** - 
+        1. Variable object
+        2. Scope Chain
+        3. this 
+two rules for Execution context:-
+    $$ -> Function declaration are scaned and made available
+    $$ -> Variable declaration are scaned and made undefined
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.
+.
